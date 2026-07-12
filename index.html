@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AppForge - Publish Android & Web Apps</title>
+    <style>
+        /* Base Reset & Variables */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --accent-blue: #3b82f6;
+            --accent-green: #10b981;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+        }
+
+        /* Navbar Layout */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.5rem 5%;
+            background-color: rgba(15, 23, 42, 0.9);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(10px);
+        }
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--text-main);
+        }
+        .logo span {
+            color: var(--accent-blue);
+        }
+        nav a {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 1.5rem;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: var(--accent-blue);
+        }
+
+        /* Hero Section */
+        .hero {
+            text-align: center;
+            padding: 6rem 1.5rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            line-height: 1.2;
+        }
+        .hero p {
+            color: var(--text-muted);
+            font-size: 1.2rem;
+            margin-bottom: 2.5rem;
+        }
+        .cta-group {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .btn {
+            display: inline-block;
+            padding: 0.8rem 2rem;
+            font-weight: 600;
+            border-radius: 6px;
+            text-decoration: none;
+            transition: transform 0.2s, opacity 0.2s;
+        }
+        .btn:active {
+            transform: scale(0.98);
+        }
+        .btn-blue {
+            background-color: var(--accent-blue);
+            color: white;
+        }
+        .btn-green {
+            background-color: var(--accent-green);
+            color: white;
+        }
+        .btn:hover {
+            opacity: 0.9;
+        }
+
+        /* Platform Grid Section */
+        .platforms {
+            padding: 4rem 5%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .section-title {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 3rem;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        .card {
+            background-color: var(--card-bg);
+            padding: 2.5rem;
+            border-radius: 12px;
+            border: 1px solid #334155;
+            transition: translateY 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        .card p {
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 3rem 1.5rem;
+            color: var(--text-muted);
+            border-top: 1px solid #334155;
+            margin-top: 4rem;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header Navigation -->
+    <header>
+        <div class="logo">App<span>Forge</span></div>
+        <nav>
+            <a href="#platforms">Platforms</a>
+            <a href="#features">Documentation</a>
+            <a href="#login">Sign In</a>
+        </nav>
+    </header>
+
+    <!-- Hero Value Proposition -->
+    <section class="hero">
+        <h1>Deploy Your Android & Web Applications Globally</h1>
+        <p>The developer-first ecosystem to distribute, monitor, and scale your digital products with zero friction.</p>
+        <div class="cta-group">
+            <a href="#publish-android" class="btn btn-blue">Deploy Android App</a>
+            <a href="#publish-web" class="btn btn-green">Deploy Web App</a>
+        </div>
+    </section>
+
+    <!-- Platforms Section -->
+    <section class="platforms" id="platforms">
+        <h2 class="section-title">Supported Frameworks & Environments</h2>
+        <div class="grid">
+            <!-- Android Card -->
+            <div class="card">
+                <div class="card-icon">🤖</div>
+                <h3>Android Publishing</h3>
+                <p>Upload your production-ready APK or AAB files. Benefit from instant compatibility scanning and optimized global CDN distribution streams.</p>
+                <a href="#android" style="color: var(--accent-blue); text-decoration: none; font-weight: bold;">Learn More &rarr;</a>
+            </div>
+
+            <!-- Web App Card -->
+            <div class="card">
+                <div class="card-icon">🌐</div>
+                <h3>Website & Progressive Web Apps (PWA)</h3>
+                <p>Deploy static assets, Single Page Applications (SPA), or advanced PWAs. Enjoy automated SSL configuration and custom domain mapping toolsets.</p>
+                <a href="#web" style="color: var(--accent-green); text-decoration: none; font-weight: bold;">Learn More &rarr;</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Copyright -->
+    <footer>
+        <p>&copy; 2026 AppForge Ecosystem. All developer rights reserved.</p>
+    </footer>
+
+</body>
+</html>
