@@ -1,2 +1,2 @@
-# PlayersApp
-https://3worksmoulay-lab.github.io/PlayersApp/
+# TriviaData
+https://3worksmoulay-lab.github.io/TriviaData/
