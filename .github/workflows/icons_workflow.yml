@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-    # Paths filter removed to force a trigger on any push to main
   workflow_dispatch:
 
 jobs:
@@ -16,6 +15,12 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+
+      # Installs ImageMagick natively on the runner instance
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
 
       - name: Process and Resize Images Natively
         run: |
