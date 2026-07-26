@@ -21,8 +21,11 @@ jobs:
       - name: Resize Images
         uses: petems/image-resizer-gh-action@master
         with:
-          target: TriviaData/0. RawImgs/ # Reads raw images from here
-          dimensions: 50% # Freely adjust your resizing choice (e.g., 50%, 800x, x600)
+          target: TriviaData/0. RawImgs/
+          dimensions: 50%
+          widthLimit: 10000              # Set high so it handles large files without skipping
+          heightLimit: 10000             # Set high so it handles large files without skipping
+
 
       # Moves resized items to the output folder if you want to keep them separated
       - name: Move to Processed Folder
