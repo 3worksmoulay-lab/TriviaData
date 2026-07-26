@@ -4,9 +4,7 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '0. RawImgs/**'
-      - '0. rawimgs/**'
+    # Paths filter removed to force a trigger on any push to main
   workflow_dispatch:
 
 jobs:
