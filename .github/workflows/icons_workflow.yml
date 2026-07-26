@@ -5,7 +5,8 @@ on:
     branches:
       - main
     paths:
-      - '0. [Rr]aw[Ii]mgs/**' # Case-insensitive fallback: matches RawImgs, rawimgs, Rawimgs, etc.
+      - '0. RawImgs/**'
+      - '0. rawimgs/**'
   workflow_dispatch:
 
 jobs:
@@ -18,23 +19,29 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Resize Images
-        uses: petems/image-resizer-gh-action@master
-        with:
-          target: "0. RawImgs/" # Root folder reference
-          dimensions: 50%
-          widthLimit: 10000
-          heightLimit: 10000
-
-      # Moves resized items to the output folder cleanly
-      - name: Move to Processed Folder
+      - name: Process and Resize Images Natively
         run: |
+          # 1. Enforce folder initialization natively
+          mkdir -p "0. RawImgs"
           mkdir -p "1. ProcessedImgs"
-          mv "0. RawImgs"/* "1. ProcessedImgs/" 2>/dev/null || true
+          
+          # 2. Check if there are any images to process
+          if [ -z "$(ls -A "0. RawImgs")" ]; then
+             echo "No images found in 0. RawImgs folder. Skipping process."
+             exit 0
+          fi
+
+          # 3. Use ImageMagick to resize dynamically (freely scaling to 50%)
+          echo "Resizing images..."
+          mogrify -resize 50% "0. RawImgs"/*
+
+          # 4. Move processed items to the output folder cleanly
+          echo "Moving images to processed folder..."
+          mv "0. RawImgs"/* "1. ProcessedImgs/"
 
       - name: Commit Processed Images
         uses: EndBug/add-and-commit@v9
         with:
-          add: '.' # Commits all changes made inside the root workspace
+          add: '.'
           default_author: github_actions
           message: 'chore: automatically process repository images [skip ci]'
