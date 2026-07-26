@@ -1,0 +1,37 @@
+name: Bulk Resize Repository Images
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'TriviaData/0. RawImgs/**' # Triggers when new images are added here
+
+jobs:
+  resize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Resize Images
+        uses: petems/image-resizer-gh-action@master
+        with:
+          target: TriviaData/0. RawImgs/       # Reads raw images from here
+          dimensions: 50%                       # Freely adjust your resizing choice (e.g., 50%, 800x, x600)
+
+      # Moves resized items to the output folder if you want to keep them separated
+      - name: Move to Processed Folder
+        run: |
+          mkdir -p "TriviaData/1. ProcessedImgs"
+          mv "TriviaData/0. RawImgs"/* "TriviaData/1. ProcessedImgs/" 2>/dev/null || true
+
+      - name: Commit Processed Images
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'TriviaData/'
+          default_author: github_actions
+          message: 'chore: automatically process repository images [skip ci]'
