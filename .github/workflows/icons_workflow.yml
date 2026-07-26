@@ -22,25 +22,37 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y imagemagick
 
+      # Fixed processing block to securely isolate valid image formats
       - name: Process and Resize Images Natively
         run: |
           # 1. Enforce folder initialization natively
           mkdir -p "0. RawImgs"
           mkdir -p "1. ProcessedImgs"
           
-          # 2. Check if there are any images to process
+          # 2. Check if there are any files to process
           if [ -z "$(ls -A "0. RawImgs")" ]; then
-             echo "No images found in 0. RawImgs folder. Skipping process."
+             echo "No files found in 0. RawImgs folder. Skipping process."
              exit 0
           fi
 
-          # 3. Use ImageMagick to resize dynamically (freely scaling to 50%)
+          # 3. Safely target only actual image files (ignores hidden/system files)
           echo "Resizing images..."
-          mogrify -resize 50% "0. RawImgs"/*
+          cd "0. RawImgs"
+          
+          # This handles variations like .png, .PNG, .jpg, .JPEG, .webp
+          shopt -s nullglob nocaseglob
+          for img in *.{png,jpg,jpeg,webp}; do
+             if [ -f "$img" ]; then
+                echo "Processing: $img"
+                mogrify -resize 50% "$img"
+             fi
+          done
+          
+          cd ..
 
           # 4. Move processed items to the output folder cleanly
           echo "Moving images to processed folder..."
-          mv "0. RawImgs"/* "1. ProcessedImgs/"
+          mv "0. RawImgs"/* "1. ProcessedImgs/" 2>/dev/null || true
 
       - name: Commit Processed Images
         uses: EndBug/add-and-commit@v9
