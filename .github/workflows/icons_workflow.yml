@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths:
-      - '0. RawImgs/**' # Triggers when new images are added here
-  workflow_dispatch: # Allows you to manually click a button to run it anytime
+      - '0. [Rr]aw[Ii]mgs/**' # Case-insensitive fallback: matches RawImgs, rawimgs, Rawimgs, etc.
+  workflow_dispatch:
 
 jobs:
   resize:
