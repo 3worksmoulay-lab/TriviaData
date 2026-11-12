@@ -1,0 +1,44 @@
+{
+"en": {
+"btn_start": "Start",
+"btn_bonus": "Bonus Games",
+"btn_more_games": "More Games",
+"btn_leaderboard": "Leaderboard",
+"menu_title": "Menu",
+"menu_ambient_music": "🎵 Ambient Music",
+"menu_gameplay_sfx": "🔊 Gameplay SFX",
+"menu_share": "Share App",
+"menu_about": "About Us",
+"menu_privacy": "Privacy Policy",
+"share_text": "Discover world landmarks and test your knowledge with EsLandmarks!",
+"toast_copied": "App link copied to clipboard!"
+},
+"es": {
+"btn_start": "Jugar",
+"btn_bonus": "Juegos Extra",
+"btn_more_games": "Más Juegos",
+"btn_leaderboard": "Clasificación",
+"menu_title": "Menú",
+"menu_ambient_music": "🎵 Música Ambiental",
+"menu_gameplay_sfx": "🔊 Efectos de Sonido",
+"menu_share": "Compartir App",
+"menu_about": "Sobre Nosotros",
+"menu_privacy": "Política de Privacidad",
+"share_text": "¡Descubre monumentos del mundo y pon a prueba tus conocimientos con EsLandmarks!",
+"toast_copied": "¡Enlace copiado al portapapeles!"
+},
+"ar": {
+"btn_start": "ابدأ",
+"btn_bonus": "ألعاب إضافية",
+"btn_more_games": "المزيد من الألعاب",
+"btn_leaderboard": "لوحة المتصدرين",
+"menu_title": "القائمة",
+"menu_ambient_music": "🎵 الموسيقى الخلفية",
+"menu_gameplay_sfx": "🔊 المؤثرات الصوتية",
+"menu_share": "مشاركة التطبيق",
+"menu_about": "من نحن",
+"menu_privacy": "سياسة الخصوصية",
+"share_text": "اكتشف أشهر المعالم العالمية واختبر معلوماتك مع تطبيق EsLandmarks!",
+"toast_copied": "تم نسخ رابط التطبيق إلى الحافظة!"
+}
+}
