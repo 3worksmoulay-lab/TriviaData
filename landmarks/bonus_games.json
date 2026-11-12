@@ -13,63 +13,63 @@
   },
   "games": [
     {
-      "title": "World Wonders Puzzle",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame1.png",
+      "title": "Magic Block Blitz 2026",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame1.jpg",
       "url": "go:MyGame1"
     },
     {
-      "title": "Capital City Rush",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame2.png",
+      "title": "Tile Master 2048",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame2.jpg",
       "url": "go:MyGame2"
     },
     {
-      "title": "Ancient Ruins Match",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame3.png",
+      "title": "Roll The Ball 2",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame3.jpg",
       "url": "go:MyGame3"
     },
     {
-      "title": "Flag Master Challenge",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame4.png",
+      "title": "Woodoku Online",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame4.jpg",
       "url": "go:MyGame4"
     },
     {
-      "title": "Monument Builder",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame5.png",
+      "title": "Dirt Bike Stunts Puzzle",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame5.jpg",
       "url": "go:MyGame5"
     },
     {
-      "title": "Geo Explorer Memory",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame6.png",
+      "title": "Hummer Jeep Puzzle",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame6.jpg",
       "url": "go:MyGame6"
     },
     {
-      "title": "Landmark Silhouette",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame7.png",
+      "title": "Block Legend Puzzle",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame7.jpg",
       "url": "go:MyGame7"
     },
     {
-      "title": "Time Travel Trivia",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame8.png",
+      "title": "Word Search Master",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame8.jpg",
       "url": "go:MyGame8"
     },
     {
-      "title": "Seven Wonders Quest",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame9.png",
+      "title": "My Little Unicorn",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame9.jpg",
       "url": "go:MyGame9"
     },
     {
-      "title": "Hidden Temple",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame10.png",
+      "title": "Princess Royal Dream Wedding",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame10.jpg",
       "url": "go:MyGame10"
     },
     {
-      "title": "Atlas Speed Run",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame11.png",
+      "title": "Math Kids Game",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame11.jpg",
       "url": "go:MyGame11"
     },
     {
-      "title": "Mystery Coordinates",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame12.png",
+      "title": "Summer Dress Up",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame12.jpg",
       "url": "go:MyGame12"
     }
   ]
