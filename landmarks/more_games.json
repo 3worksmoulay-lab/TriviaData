@@ -13,63 +13,63 @@
   },
   "games": [
     {
-      "title": "Space Trivia Odyssey",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game1.png",
+      "title": "Chroma Challenge",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game1.jpg",
       "url": "go:Game1"
     },
     {
-      "title": "History Legends",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game2.png",
+      "title": "Lock Master",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game2.jpg",
       "url": "go:Game2"
     },
     {
-      "title": "Ocean Mysteries",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game3.png",
+      "title": "Knock Down Cans",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game3.jpg",
       "url": "go:Game3"
     },
     {
-      "title": "Science Genius",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game4.png",
+      "title": "Block Wood Puzzle",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game4.jpg",
       "url": "go:Game4"
     },
     {
-      "title": "Animal Kingdom Quiz",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game5.png",
+      "title": "Pro Bowling 3D",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game5.jpg",
       "url": "go:Game5"
     },
     {
-      "title": "Brain Teaser Pro",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game6.png",
+      "title": "Fill The Gap",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game6.jpg",
       "url": "go:Game6"
     },
     {
-      "title": "Word Safari",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game7.png",
+      "title": "Flip The Bottle",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game7.jpg",
       "url": "go:Game7"
     },
     {
-      "title": "Math Crystal",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game8.png",
+      "title": "Jewels Blocks Puzzle",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game8.jpg",
       "url": "go:Game8"
     },
     {
-      "title": "Sports Champions",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game9.png",
+      "title": "Mini Golf Adventure",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game9.jpg",
       "url": "go:Game9"
     },
     {
-      "title": "Art & Culture",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game10.png",
+      "title": "Banana Running",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game10.jpg",
       "url": "go:Game10"
     },
     {
-      "title": "Flags of the World",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game11.png",
+      "title": "Guess The Superhero",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game11.jpg",
       "url": "go:Game11"
     },
     {
-      "title": "Daily Riddle Box",
-      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game12.png",
+      "title": "Hardest Game On Earth",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/Game12.jpg",
       "url": "go:Game12"
     }
   ]
