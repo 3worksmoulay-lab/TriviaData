@@ -1,0 +1,76 @@
+{
+  "sectionTitle": "Bonus Games",
+  "theme": {
+    "bgGradient": "radial-gradient(circle at 50% 30%, #1f1309, #090604 85%)",
+    "stripTop": "#d97706",
+    "stripBottom": "#b45309",
+    "stripShadow": "rgba(217, 119, 6, 0.45)",
+    "cardBg": "linear-gradient(145deg, rgba(255, 191, 0, 0.12), rgba(255, 255, 255, 0.03))",
+    "cardBorder": "rgba(251, 191, 36, 0.3)",
+    "cardActiveBg": "#f59e0b",
+    "buttonHoverColor": "#fef08a",
+    "sectionEmoji": "🎁"
+  },
+  "games": [
+    {
+      "title": "World Wonders Puzzle",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame1.png",
+      "url": "go:MyGame1"
+    },
+    {
+      "title": "Capital City Rush",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame2.png",
+      "url": "go:MyGame2"
+    },
+    {
+      "title": "Ancient Ruins Match",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame3.png",
+      "url": "go:MyGame3"
+    },
+    {
+      "title": "Flag Master Challenge",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame4.png",
+      "url": "go:MyGame4"
+    },
+    {
+      "title": "Monument Builder",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame5.png",
+      "url": "go:MyGame5"
+    },
+    {
+      "title": "Geo Explorer Memory",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame6.png",
+      "url": "go:MyGame6"
+    },
+    {
+      "title": "Landmark Silhouette",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame7.png",
+      "url": "go:MyGame7"
+    },
+    {
+      "title": "Time Travel Trivia",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame8.png",
+      "url": "go:MyGame8"
+    },
+    {
+      "title": "Seven Wonders Quest",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame9.png",
+      "url": "go:MyGame9"
+    },
+    {
+      "title": "Hidden Temple",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame10.png",
+      "url": "go:MyGame10"
+    },
+    {
+      "title": "Atlas Speed Run",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame11.png",
+      "url": "go:MyGame11"
+    },
+    {
+      "title": "Mystery Coordinates",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/mygame12.png",
+      "url": "go:MyGame12"
+    }
+  ]
+}

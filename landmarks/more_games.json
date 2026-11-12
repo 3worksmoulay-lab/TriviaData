@@ -1,0 +1,76 @@
+{
+  "sectionTitle": "More Games",
+  "theme": {
+    "bgGradient": "radial-gradient(circle at 50% 30%, #061e24, #04090f 85%)",
+    "stripTop": "#0ea5e9",
+    "stripBottom": "#0369a1",
+    "stripShadow": "rgba(14, 165, 233, 0.45)",
+    "cardBg": "linear-gradient(145deg, rgba(56, 189, 248, 0.12), rgba(255, 255, 255, 0.03))",
+    "cardBorder": "rgba(56, 189, 248, 0.3)",
+    "cardActiveBg": "#0284c7",
+    "buttonHoverColor": "#bae6fd",
+    "sectionEmoji": "🚀"
+  },
+  "games": [
+    {
+      "title": "Space Trivia Odyssey",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game1.png",
+      "url": "go:Game1"
+    },
+    {
+      "title": "History Legends",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game2.png",
+      "url": "go:Game2"
+    },
+    {
+      "title": "Ocean Mysteries",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game3.png",
+      "url": "go:Game3"
+    },
+    {
+      "title": "Science Genius",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game4.png",
+      "url": "go:Game4"
+    },
+    {
+      "title": "Animal Kingdom Quiz",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game5.png",
+      "url": "go:Game5"
+    },
+    {
+      "title": "Brain Teaser Pro",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game6.png",
+      "url": "go:Game6"
+    },
+    {
+      "title": "Word Safari",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game7.png",
+      "url": "go:Game7"
+    },
+    {
+      "title": "Math Crystal",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game8.png",
+      "url": "go:Game8"
+    },
+    {
+      "title": "Sports Champions",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game9.png",
+      "url": "go:Game9"
+    },
+    {
+      "title": "Art & Culture",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game10.png",
+      "url": "go:Game10"
+    },
+    {
+      "title": "Flags of the World",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game11.png",
+      "url": "go:Game11"
+    },
+    {
+      "title": "Daily Riddle Box",
+      "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/images/game12.png",
+      "url": "go:Game12"
+    }
+  ]
+}
