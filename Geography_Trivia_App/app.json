@@ -1,0 +1,7 @@
+{
+    "mainRepo": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main",
+    "appDirectory": "./Geography_Trivia_App",
+    "commonsDirectory": "./Commons",
+    "topicsDirectory": "./Topics",
+    "selectedTopics": "capitals, flags, landmarks" 
+}
