@@ -1,14 +1,21 @@
 {
-    "mainRepo": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main",
-    "appDirectory": "./Geography_Trivia_App",
-    "commonsDirectory": "./Commons",
-    "topicsDirectory": "./Topics",
-    "selectedTopics": "capitals, flags, landmarks",
-    "selectedLanguages": "en, es, fr, ar",
-    "appIcon": "./assets/App_icon.png",
-    "favicon": "./assets/favicon.ico",
-    "audioFilesDirectory": "../Commons/Audio",
-    "backgroundsDirectory": "../Commons/Backgrounds",
-    "languageIconsDirectory": "../Commons/LangFlags",
-    "ambientMusic": "../Commons/Audio/ambient1.mp3"
+  "appName": "Geography Trivia",
+  "version": "2026.1.0",
+  "defaultLanguage": "En",
+  "supportedLanguages": ["En", "Es", "Fr", "Ar"],
+  "directories": {
+    "app": "Geography_Trivia_App",
+    "appAssets": "Geography_Trivia_App/assets",
+    "commons": "Commons",
+    "audio": "Commons/Audio",
+    "backgrounds": "Commons/Backgrounds",
+    "langFlags": "Commons/LangFlags",
+    "topics": "Topics"
+  },
+  "assets": {
+    "appIcon": "icon_512.png",
+    "appBackground": "home_bg.png",
+    "ambientMusic": "ambient1.mp3"
+  },
+  "selectedTopics": ["landmarks", "flags", "capitals"]
 }
