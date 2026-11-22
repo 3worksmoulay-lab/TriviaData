@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>Geography Trivia Pro - Bekeirat Software</title>
+  <link rel="stylesheet" href="index.css" />
+  <audio id="ambient-music" src="../Commons/Audio/ambient1.mp3" loop></audio>
+</head>
+<body>
+  <!-- High-FPS WebGL / 2D Particle Background Canvas -->
+  <canvas id="background-canvas"></canvas>
+
+  <!-- Center Hero: 512x512px App Icon with Glowing Crystallic Border -->
+  <div class="hero-container">
+    <img src="../Commons/LangFlags/"/>
+    <div class="hero-icon-wrapper">
+      <img id="hero-app-icon" src="./assets/App_icon.png" alt="Geography Trivia App Icon" width="512" height="512" />
+    </div>
+    <h1 class="game-title">GEOGRAPHY TRIVIA</h1>
+  </div>
+
+  <!-- Main Menu Buttons -->
+  <div class="menu-container">
+    <button id="btn-start" class="menu-button">Start</button>
+    <button id="btn-bonus" class="menu-button">Bonus Games</button>
+    <button id="btn-more-games" class="menu-button">More Games</button>
+    <button id="btn-leaderboard" class="menu-button">Leaderboard</button>
+  </div>
+
+  <!-- Footer Menu -->
+  <div class="footer-menu">
+    <h2>Menu</h2>
+    <label><input type="checkbox" id="ambient-music-toggle" checked /> 🎵 Ambient Music</label>
+    <label><input type="checkbox" id="gameplay-sfx-toggle" checked /> 🔊 Gameplay SFX</label>
+    <button id="btn-share" class="footer-button">Share App</button>
+    <button id="btn-about" class="footer-button">About Us</button>
+    <button id="btn-privacy" class="footer-button">Privacy Policy</button>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>

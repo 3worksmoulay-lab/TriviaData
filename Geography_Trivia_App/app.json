@@ -3,5 +3,12 @@
     "appDirectory": "./Geography_Trivia_App",
     "commonsDirectory": "./Commons",
     "topicsDirectory": "./Topics",
-    "selectedTopics": "capitals, flags, landmarks" 
+    "selectedTopics": "capitals, flags, landmarks",
+    "selectedLanguages": "en, es, fr, ar",
+    "appIcon": "./assets/App_icon.png",
+    "favicon": "./assets/favicon.ico",
+    "audioFilesDirectory": "../Commons/Audio",
+    "backgroundsDirectory": "../Commons/Backgrounds",
+    "languageIconsDirectory": "../Commons/LangFlags",
+    "ambientMusic": "../Commons/Audio/ambient1.mp3"
 }
