@@ -1,6 +1,6 @@
 {
   "appName": "Geography Trivia",
-  "version": "2026.1.0",
+  "version": "1.0",
   "defaultLanguage": "En",
   "supportedLanguages": ["En", "Es", "Fr", "Ar"],
   "directories": {
@@ -13,8 +13,8 @@
     "topics": "Topics"
   },
   "assets": {
-    "appIcon": "icon_512.png",
-    "appBackground": "home_bg.png",
+    "appIcon": "App_icon.png",
+    "favIcon": "favicon.png",
     "ambientMusic": "ambient1.mp3"
   },
   "selectedTopics": ["landmarks", "flags", "capitals"]
