@@ -6,12 +6,13 @@
   "directories": {
     "app": "Geography_Trivia_App",
     "appAssets": "Geography_Trivia_App/assets",
-    "bonusGamesIcons": "Geography_Trivia_App/BonusGamesIcons",
     "commons": "Commons",
     "audio": "Commons/Audio",
     "backgrounds": "Commons/Backgrounds",
     "langFlags": "Commons/LangFlags",
     "achievements": "Commons/Achievements",
+    "bonusGamesIcons": "Commons/BonusGamesIcons",
+    "missionsIcons": "Commons/MissionsIcons",
     "topics": "Topics"
   },
   "assets": {

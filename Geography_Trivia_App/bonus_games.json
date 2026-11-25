@@ -1,0 +1,153 @@
+{
+  "version": "1.0",
+  "grid": {
+    "rows": 2,
+    "columns": 6
+  },
+  "games": [
+    {
+      "id": "bonus-01",
+      "title": {
+        "En": "World Map Jigsaw",
+        "Es": "Puzle del Mapa Mundial",
+        "Fr": "Puzzle Carte du Monde",
+        "Ar": "أحجية خريطة العالم"
+      },
+      "image": "bonus_01_jigsaw.png",
+      "url": "https://example.com/games/world-map-jigsaw",
+      "topic": "landmarks"
+    },
+    {
+      "id": "bonus-02",
+      "title": {
+        "En": "Flag Frenzy",
+        "Es": "Frenesí de Banderas",
+        "Fr": "Ruée vers les Drapeaux",
+        "Ar": "سباق الأعلام"
+      },
+      "image": "bonus_02_flags.png",
+      "url": "https://example.com/games/flag-frenzy",
+      "topic": "flags"
+    },
+    {
+      "id": "bonus-03",
+      "title": {
+        "En": "Capital Blitz",
+        "Es": "Asalto de Capitales",
+        "Fr": "Blitz des Capitales",
+        "Ar": "تحدي العواصم"
+      },
+      "image": "bonus_03_capitals.png",
+      "url": "https://example.com/games/capital-blitz",
+      "topic": "capitals"
+    },
+    {
+      "id": "bonus-04",
+      "title": {
+        "En": "Border Match",
+        "Es": "Duelo de Fronteras",
+        "Fr": "Duel des Frontières",
+        "Ar": "مطابقة الحدود"
+      },
+      "image": "bonus_04_borders.png",
+      "url": "https://example.com/games/border-match",
+      "topic": "capitals"
+    },
+    {
+      "id": "bonus-05",
+      "title": {
+        "En": "Seven Wonders Hunt",
+        "Es": "Caza de Maravillas",
+        "Fr": "Chasse aux Merveilles",
+        "Ar": "صيد عجائب الدنيا"
+      },
+      "image": "bonus_05_wonders.png",
+      "url": "https://example.com/games/seven-wonders",
+      "topic": "landmarks"
+    },
+    {
+      "id": "bonus-06",
+      "title": {
+        "En": "Island Hopper",
+        "Es": "Salto entre Islas",
+        "Fr": "Saut d'Île en Île",
+        "Ar": "القفز بين الجزر"
+      },
+      "image": "bonus_06_islands.png",
+      "url": "https://example.com/games/island-hopper",
+      "topic": "landmarks"
+    },
+    {
+      "id": "bonus-07",
+      "title": {
+        "En": "Compass Memory",
+        "Es": "Memoria de Brújula",
+        "Fr": "Mémoire Boussole",
+        "Ar": "ذاكرة البوصلة"
+      },
+      "image": "bonus_07_compass.png",
+      "url": "https://example.com/games/compass-memory",
+      "topic": "flags"
+    },
+    {
+      "id": "bonus-08",
+      "title": {
+        "En": "River Runner",
+        "Es": "Corredor de Ríos",
+        "Fr": "Course des Fleuves",
+        "Ar": "عداء الأنهار"
+      },
+      "image": "bonus_08_rivers.png",
+      "url": "https://example.com/games/river-runner",
+      "topic": "landmarks"
+    },
+    {
+      "id": "bonus-09",
+      "title": {
+        "En": "Stripe & Star",
+        "Es": "Franja y Estrella",
+        "Fr": "Bandes et Étoiles",
+        "Ar": "الخطوط والنجوم"
+      },
+      "image": "bonus_09_stripes.png",
+      "url": "https://example.com/games/stripe-and-star",
+      "topic": "flags"
+    },
+    {
+      "id": "bonus-10",
+      "title": {
+        "En": "Time Zone Dash",
+        "Es": "Carrera de Husos Horarios",
+        "Fr": "Course Fuseaux Horaires",
+        "Ar": "سباق المناطق الزمنية"
+      },
+      "image": "bonus_10_timezones.png",
+      "url": "https://example.com/games/timezone-dash",
+      "topic": "capitals"
+    },
+    {
+      "id": "bonus-11",
+      "title": {
+        "En": "Peak Climber",
+        "Es": "Escalador de Cumbres",
+        "Fr": "Grimpeur de Sommets",
+        "Ar": "متسلق القمم"
+      },
+      "image": "bonus_11_peaks.png",
+      "url": "https://example.com/games/peak-climber",
+      "topic": "landmarks"
+    },
+    {
+      "id": "bonus-12",
+      "title": {
+        "En": "Globe Spinner",
+        "Es": "Gira el Globo",
+        "Fr": "Tourne le Globe",
+        "Ar": "أدر الكرة الأرضية"
+      },
+      "image": "bonus_12_globe.png",
+      "url": "https://example.com/games/globe-spinner",
+      "topic": "capitals"
+    }
+  ]
+}
