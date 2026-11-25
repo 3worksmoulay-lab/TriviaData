@@ -1,0 +1,107 @@
+{
+  "version": "1.0",
+  "missions": [
+    {
+      "id": "m1",
+      "title": {
+        "En": "First Expedition",
+        "Es": "Primera Expedición",
+        "Fr": "Première Expédition",
+        "Ar": "الرحلة الأولى"
+      },
+      "description": {
+        "En": "Launch the Play screen and answer trivia.",
+        "Es": "Abre la pantalla de juego y responde preguntas.",
+        "Fr": "Lancez l'écran de jeu et répondez aux questions.",
+        "Ar": "افتح شاشة اللعب وأجب عن الأسئلة."
+      },
+      "image": "mission_play.png",
+      "targetScreen": "screen-play"
+    },
+    {
+      "id": "m2",
+      "title": {
+        "En": "Bonus Explorer",
+        "Es": "Explorador Extra",
+        "Fr": "Explorateur Bonus",
+        "Ar": "مستكشف الألعاب الإضافية"
+      },
+      "description": {
+        "En": "Open any mini-game in the Bonus Games grid.",
+        "Es": "Abre un minijuego en la cuadrícula de juegos extra.",
+        "Fr": "Ouvrez un mini-jeu dans la grille bonus.",
+        "Ar": "افتح أي لعبة مصغرة من شبكة الألعاب الإضافية."
+      },
+      "image": "mission_bonus.png",
+      "targetScreen": "screen-bonus"
+    },
+    {
+      "id": "m3",
+      "title": {
+        "En": "Hall of Fame Check",
+        "Es": "Revisión de Clasificación",
+        "Fr": "Visite du Classement",
+        "Ar": "تفقد لوحة الصدارة"
+      },
+      "description": {
+        "En": "Check your rank on the Leaderboard.",
+        "Es": "Consulta tu puesto en la clasificación.",
+        "Fr": "Consultez votre rang dans le classement.",
+        "Ar": "تحقق من ترتيبك في لوحة الصدارة."
+      },
+      "image": "mission_leaderboard.png",
+      "targetScreen": "screen-leaderboard"
+    },
+    {
+      "id": "m4",
+      "title": {
+        "En": "Polyglot Traveler",
+        "Es": "Viajero Políglota",
+        "Fr": "Voyageur Polyglotte",
+        "Ar": "رحالة متعدد اللغات"
+      },
+      "description": {
+        "En": "Switch the app language using the top flag button.",
+        "Es": "Cambia el idioma con el botón de bandera superior.",
+        "Fr": "Changez la langue via le bouton drapeau en haut.",
+        "Ar": "غيّر لغة التطبيق عبر زر العلم العلوي."
+      },
+      "image": "mission_lang.png",
+      "targetScreen": "screen-home"
+    },
+    {
+      "id": "m5",
+      "title": {
+        "En": "Level Conqueror",
+        "Es": "Conquistador de Nivel",
+        "Fr": "Conquérant de Niveau",
+        "Ar": "قاهر المستويات"
+      },
+      "description": {
+        "En": "Complete all questions in a level across selected topics.",
+        "Es": "Completa todas las preguntas de un nivel.",
+        "Fr": "Terminez toutes les questions d'un niveau.",
+        "Ar": "أكمل جميع أسئلة المستوى عبر المواضيع المختارة."
+      },
+      "image": "mission_level.png",
+      "targetScreen": "screen-play"
+    },
+    {
+      "id": "m6",
+      "title": {
+        "En": "Score Hunter (200+)",
+        "Es": "Cazador de Puntos (200+)",
+        "Fr": "Chasseur de Points (200+)",
+        "Ar": "صائد النقاط (+200)"
+      },
+      "description": {
+        "En": "Reach a score of 200 points or higher.",
+        "Es": "Alcanza 200 puntos o más.",
+        "Fr": "Atteignez 200 points ou plus.",
+        "Ar": "اصل إلى 200 نقطة أو أكثر."
+      },
+      "image": "mission_score.png",
+      "targetScreen": "screen-play"
+    }
+  ]
+}
