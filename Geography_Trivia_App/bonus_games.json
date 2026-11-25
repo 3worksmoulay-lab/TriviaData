@@ -2,84 +2,144 @@
   {
     "id": "bonus-01",
     "title": "Magic Block Blitz 2026",
-    "description": "Enjoy a fun block puzzle game with block matching. Clear lines, create combos, and achieve high scores.",
+    "description": {
+      "En": "Enjoy a fun block puzzle game with block matching. Clear lines, create combos, and achieve high scores.",
+      "Es": "Disfruta de un divertido juego de puzle con combinación de bloques. Limpia líneas, crea combos y logra puntuaciones altas.",
+      "Fr": "Profitez d'un jeu de puzzle amusant avec association de blocs. Éliminez des lignes, créez des combos et visez les meilleurs scores.",
+      "Ar": "استمتع بلعبة ألغاز مكعبات ممتعة تعتمد على المطابقة. امسح الخطوط، وحقق تركيبات متتالية، وسجل أعلى النقاط."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame1.jpg",
     "url": "https://bekeiratsoftwares.com/Apps/EnBlocks2026/"
   },
   {
     "id": "bonus-02",
     "title": "Tile Master 2048",
-    "description": "Slide, merge, and reach 2048 in this addictive number puzzle game.",
+    "description": {
+      "En": "Slide, merge, and reach 2048 in this addictive number puzzle game.",
+      "Es": "Desliza, combina y alcanza el 2048 en este adictivo juego de puzle numérico.",
+      "Fr": "Faites glisser, fusionnez et atteignez 2048 dans ce jeu de puzzle numérique captivant.",
+      "Ar": "اسحب وادمج للوصول إلى 2048 في لعبة الألغاز الرقمية الشيقة هذه."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame2.jpg",
     "url": "https://bekeiratsoftwares.com/Apps/EnTiles2048/"
   },
   {
     "id": "bonus-03",
     "title": "Roll The Ball 2",
-    "description": "One of the best brain storming puzzle game. An addictive slide puzzle game which refresh your brain.",
+    "description": {
+      "En": "One of the best brain storming puzzle game. An addictive slide puzzle game which refresh your brain.",
+      "Es": "Uno de los mejores juegos de ingenio. Un adictivo puzle deslizante que refresca tu mente.",
+      "Fr": "L'un des meilleurs jeux de réflexion. Un puzzle coulissant captivant qui stimule l'esprit.",
+      "Ar": "من أفضل ألعاب تنشيط الذهن؛ لعبة ألغاز انزلاقية ممتعة تنعش عقلك."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame3.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15490"
   },
   {
     "id": "bonus-04",
     "title": "Woodoku Online",
-    "description": "Your goal is to put the blocks into the box and fill them and then eliminate them after filling them horizontally or vertically, testing your patience and carefulness.",
+    "description": {
+      "En": "Your goal is to put the blocks into the box and fill them and then eliminate them after filling them horizontally or vertically, testing your patience and carefulness.",
+      "Es": "Tu objetivo es colocar los bloques en el tablero y eliminarlos al completar filas horizontales o verticales, poniendo a prueba tu paciencia y precisión.",
+      "Fr": "Votre objectif est de placer les blocs dans la grille et de les éliminer en complétant des lignes horizontales ou verticales, mettant à l'épreuve votre patience et votre soin.",
+      "Ar": "هدفك هو وضع المكعبات في اللوحة وإزالتها عند إكمال صفوف أفقية أو رأسية، مما يختبر صبرك ودقتك."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame4.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14788"
   },
   {
     "id": "bonus-05",
     "title": "Dirt Bike Stunts Puzzle",
-    "description": "In this game, you have a total of 6 jigsaw puzzles. You need to start from the first one and go to the next image.",
+    "description": {
+      "En": "In this game, you have a total of 6 jigsaw puzzles. You need to start from the first one and go to the next image.",
+      "Es": "En este juego tienes un total de 6 puzles. Debes empezar por el primero y pasar a la siguiente imagen.",
+      "Fr": "Dans ce jeu, vous disposez de 6 puzzles. Commencez par le premier et passez à l'image suivante.",
+      "Ar": "تضم هذه اللعبة 6 أحجيات صور؛ ابدأ بالأولى ثم انتقل إلى الصورة التالية."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame5.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15151"
   },
   {
     "id": "bonus-06",
     "title": "Hummer Jeep Puzzle",
-    "description": "You have 6 images in three modes to play. Choose one of the modes for the game that you previously choose and start it to play.",
+    "description": {
+      "En": "You have 6 images in three modes to play. Choose one of the modes for the game that you previously choose and start it to play.",
+      "Es": "Tienes 6 imágenes y tres modos de juego. Elige un modo para la imagen seleccionada y empieza a jugar.",
+      "Fr": "Vous avez 6 images et trois modes de jeu. Choisissez un mode pour votre image et lancez la partie.",
+      "Ar": "لديك 6 صور بثلاثة أنماط للعب؛ اختر النمط المناسب للصورة التي تحددها وابدأ اللعب."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame6.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15090"
   },
   {
     "id": "bonus-07",
     "title": "Block Legend Puzzle",
-    "description": "Just have a try, you will love it! make full lines vertically or horizontally to clear the blocks and to get a high score.",
+    "description": {
+      "En": "Just have a try, you will love it! make full lines vertically or horizontally to clear the blocks and to get a high score.",
+      "Es": "¡Pruébalo y te encantará! Completa líneas verticales u horizontales para eliminar bloques y lograr una gran puntuación.",
+      "Fr": "Essayez-le, vous allez adorer ! Formez des lignes complètes verticalement ou horizontalement pour effacer les blocs et marquer gros.",
+      "Ar": "جرّبه وستحبه! كوّن خطوطاً كاملة أفقياً أو رأسياً لمسح المكعبات وتحقيق نقاط عالية."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame7.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14759"
   },
   {
     "id": "bonus-08",
     "title": "Word Search Master",
-    "description": "Word search is an amazing puzzle game which can help you to improve your grammar skills to another level.",
+    "description": {
+      "En": "Word search is an amazing puzzle game which can help you to improve your grammar skills to another level.",
+      "Es": "La sopa de letras es un juego de puzle fantástico que ayuda a mejorar tu vocabulario y habilidades lingüísticas.",
+      "Fr": "Les mots mêlés sont un jeu de réflexion idéal pour enrichir votre vocabulaire et progresser.",
+      "Ar": "لعبة البحث عن الكلمات أحجية رائعة تساعدك على تطوير مفرداتك ومهاراتك اللغوية."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame8.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14072"
   },
   {
     "id": "bonus-09",
     "title": "My Little Unicorn",
-    "description": "Unicorns coloring game is an app for everyone who loves to create, color, learn English and just have fun and enjoy the drawing.",
+    "description": {
+      "En": "Unicorns coloring game is an app for everyone who loves to create, color, learn English and just have fun and enjoy the drawing.",
+      "Es": "Un juego de colorear unicornios ideal para quienes disfrutan creando, pintando y divirtiéndose con el dibujo.",
+      "Fr": "Un jeu de coloriage de licornes parfait pour créer, colorier et s'amuser avec le dessin.",
+      "Ar": "لعبة تلوين وحيد القرن مناسبة لمحبي الإبداع والتلوين والاستمتاع بالرسم."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame9.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13779"
   },
   {
     "id": "bonus-10",
     "title": "Princess Royal Dream Wedding",
-    "description": "The beautiful Ice Princess has finally chosen her Prince Charming, and the princess is lucky to have you as her wedding stylist and planner! Now’s your chance to show that you’re the best wedding planner around",
+    "description": {
+      "En": "The beautiful Ice Princess has finally chosen her Prince Charming, and the princess is lucky to have you as her wedding stylist and planner! Now’s your chance to show that you’re the best wedding planner around",
+      "Es": "¡La princesa ha elegido a su príncipe y cuenta contigo como estilista y organizadora de su boda! Demuestra tu estilo.",
+      "Fr": "La princesse a choisi son prince et compte sur vous comme styliste et organisatrice de mariage ! Montrez votre talent.",
+      "Ar": "اختارت الأميرة أميرها وتعتمد عليك لتنسيق إطلالتها وتنظيم حفل زفافها؛ أظهر لمساتك الإبداعية."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame10.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13801"
   },
   {
     "id": "bonus-11",
     "title": "Math Kids Game",
-    "description": "Your kids will love to play, and the more they do the better their math skills will become.",
+    "description": {
+      "En": "Your kids will love to play, and the more they do the better their math skills will become.",
+      "Es": "A los niños les encantará jugar y, cuanto más practiquen, mejores serán sus habilidades matemáticas.",
+      "Fr": "Les enfants adoreront jouer et amélioreront leurs compétences en mathématiques au fil des parties.",
+      "Ar": "سيحب الأطفال اللعب ومع كل جولة ستتحسن مهاراتهم الحسابية بشكل أكبر."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame11.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13241"
   },
   {
     "id": "bonus-12",
     "title": "Summer Dress Up",
-    "description": "Help the girl to get ready for their fun summer beach vacation ! Dress them up in fabulous beach attire & accessories.",
+    "description": {
+      "En": "Help the girl to get ready for their fun summer beach vacation ! Dress them up in fabulous beach attire & accessories.",
+      "Es": "¡Ayuda a prepararse para unas divertidas vacaciones de verano en la playa con conjuntos y accesorios playeros!",
+      "Fr": "Aidez à préparer des vacances d'été à la plage avec des tenues et accessoires estivaux !",
+      "Ar": "ساعد على الاستعداد لعطلة صيفية ممتعة على الشاطئ بأزياء وإكسسوارات صيفية مميزة."
+    },
     "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame12.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM12638"
   }
