@@ -1,74 +1,86 @@
 [
   {
+    "id": "bonus-01",
     "title": "Magic Block Blitz 2026",
     "description": "Enjoy a fun block puzzle game with block matching. Clear lines, create combos, and achieve high scores.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame1.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame1.jpg",
     "url": "https://bekeiratsoftwares.com/Apps/EnBlocks2026/"
   },
   {
+    "id": "bonus-02",
     "title": "Tile Master 2048",
     "description": "Slide, merge, and reach 2048 in this addictive number puzzle game.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame2.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame2.jpg",
     "url": "https://bekeiratsoftwares.com/Apps/EnTiles2048/"
   },
   {
+    "id": "bonus-03",
     "title": "Roll The Ball 2",
     "description": "One of the best brain storming puzzle game. An addictive slide puzzle game which refresh your brain.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame3.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame3.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15490"
   },
   {
+    "id": "bonus-04",
     "title": "Woodoku Online",
     "description": "Your goal is to put the blocks into the box and fill them and then eliminate them after filling them horizontally or vertically, testing your patience and carefulness.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame4.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame4.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14788"
   },
   {
+    "id": "bonus-05",
     "title": "Dirt Bike Stunts Puzzle",
     "description": "In this game, you have a total of 6 jigsaw puzzles. You need to start from the first one and go to the next image.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame5.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame5.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15151"
   },
   {
+    "id": "bonus-06",
     "title": "Hummer Jeep Puzzle",
     "description": "You have 6 images in three modes to play. Choose one of the modes for the game that you previously choose and start it to play.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame6.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame6.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15090"
   },
   {
+    "id": "bonus-07",
     "title": "Block Legend Puzzle",
     "description": "Just have a try, you will love it! make full lines vertically or horizontally to clear the blocks and to get a high score.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame7.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame7.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14759"
   },
   {
+    "id": "bonus-08",
     "title": "Word Search Master",
     "description": "Word search is an amazing puzzle game which can help you to improve your grammar skills to another level.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame8.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame8.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14072"
   },
   {
+    "id": "bonus-09",
     "title": "My Little Unicorn",
     "description": "Unicorns coloring game is an app for everyone who loves to create, color, learn English and just have fun and enjoy the drawing.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame9.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame9.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13779"
   },
   {
+    "id": "bonus-10",
     "title": "Princess Royal Dream Wedding",
     "description": "The beautiful Ice Princess has finally chosen her Prince Charming, and the princess is lucky to have you as her wedding stylist and planner! Now’s your chance to show that you’re the best wedding planner around",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame10.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame10.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13801"
   },
   {
+    "id": "bonus-11",
     "title": "Math Kids Game",
     "description": "Your kids will love to play, and the more they do the better their math skills will become.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame11.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame11.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13241"
   },
   {
+    "id": "bonus-12",
     "title": "Summer Dress Up",
     "description": "Help the girl to get ready for their fun summer beach vacation ! Dress them up in fabulous beach attire & accessories.",
-    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame12.jpg",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/Commons/BonusGamesIcons/MyGame12.jpg",
     "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM12638"
   }
 ]
