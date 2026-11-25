@@ -1,153 +1,74 @@
-{
-  "version": "1.0",
-  "grid": {
-    "rows": 2,
-    "columns": 6
+[
+  {
+    "title": "Magic Block Blitz 2026",
+    "description": "Enjoy a fun block puzzle game with block matching. Clear lines, create combos, and achieve high scores.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame1.jpg",
+    "url": "https://bekeiratsoftwares.com/Apps/EnBlocks2026/"
   },
-  "games": [
-    {
-      "id": "bonus-01",
-      "title": {
-        "En": "World Map Jigsaw",
-        "Es": "Puzle del Mapa Mundial",
-        "Fr": "Puzzle Carte du Monde",
-        "Ar": "أحجية خريطة العالم"
-      },
-      "image": "bonus_01_jigsaw.png",
-      "url": "https://example.com/games/world-map-jigsaw",
-      "topic": "landmarks"
-    },
-    {
-      "id": "bonus-02",
-      "title": {
-        "En": "Flag Frenzy",
-        "Es": "Frenesí de Banderas",
-        "Fr": "Ruée vers les Drapeaux",
-        "Ar": "سباق الأعلام"
-      },
-      "image": "bonus_02_flags.png",
-      "url": "https://example.com/games/flag-frenzy",
-      "topic": "flags"
-    },
-    {
-      "id": "bonus-03",
-      "title": {
-        "En": "Capital Blitz",
-        "Es": "Asalto de Capitales",
-        "Fr": "Blitz des Capitales",
-        "Ar": "تحدي العواصم"
-      },
-      "image": "bonus_03_capitals.png",
-      "url": "https://example.com/games/capital-blitz",
-      "topic": "capitals"
-    },
-    {
-      "id": "bonus-04",
-      "title": {
-        "En": "Border Match",
-        "Es": "Duelo de Fronteras",
-        "Fr": "Duel des Frontières",
-        "Ar": "مطابقة الحدود"
-      },
-      "image": "bonus_04_borders.png",
-      "url": "https://example.com/games/border-match",
-      "topic": "capitals"
-    },
-    {
-      "id": "bonus-05",
-      "title": {
-        "En": "Seven Wonders Hunt",
-        "Es": "Caza de Maravillas",
-        "Fr": "Chasse aux Merveilles",
-        "Ar": "صيد عجائب الدنيا"
-      },
-      "image": "bonus_05_wonders.png",
-      "url": "https://example.com/games/seven-wonders",
-      "topic": "landmarks"
-    },
-    {
-      "id": "bonus-06",
-      "title": {
-        "En": "Island Hopper",
-        "Es": "Salto entre Islas",
-        "Fr": "Saut d'Île en Île",
-        "Ar": "القفز بين الجزر"
-      },
-      "image": "bonus_06_islands.png",
-      "url": "https://example.com/games/island-hopper",
-      "topic": "landmarks"
-    },
-    {
-      "id": "bonus-07",
-      "title": {
-        "En": "Compass Memory",
-        "Es": "Memoria de Brújula",
-        "Fr": "Mémoire Boussole",
-        "Ar": "ذاكرة البوصلة"
-      },
-      "image": "bonus_07_compass.png",
-      "url": "https://example.com/games/compass-memory",
-      "topic": "flags"
-    },
-    {
-      "id": "bonus-08",
-      "title": {
-        "En": "River Runner",
-        "Es": "Corredor de Ríos",
-        "Fr": "Course des Fleuves",
-        "Ar": "عداء الأنهار"
-      },
-      "image": "bonus_08_rivers.png",
-      "url": "https://example.com/games/river-runner",
-      "topic": "landmarks"
-    },
-    {
-      "id": "bonus-09",
-      "title": {
-        "En": "Stripe & Star",
-        "Es": "Franja y Estrella",
-        "Fr": "Bandes et Étoiles",
-        "Ar": "الخطوط والنجوم"
-      },
-      "image": "bonus_09_stripes.png",
-      "url": "https://example.com/games/stripe-and-star",
-      "topic": "flags"
-    },
-    {
-      "id": "bonus-10",
-      "title": {
-        "En": "Time Zone Dash",
-        "Es": "Carrera de Husos Horarios",
-        "Fr": "Course Fuseaux Horaires",
-        "Ar": "سباق المناطق الزمنية"
-      },
-      "image": "bonus_10_timezones.png",
-      "url": "https://example.com/games/timezone-dash",
-      "topic": "capitals"
-    },
-    {
-      "id": "bonus-11",
-      "title": {
-        "En": "Peak Climber",
-        "Es": "Escalador de Cumbres",
-        "Fr": "Grimpeur de Sommets",
-        "Ar": "متسلق القمم"
-      },
-      "image": "bonus_11_peaks.png",
-      "url": "https://example.com/games/peak-climber",
-      "topic": "landmarks"
-    },
-    {
-      "id": "bonus-12",
-      "title": {
-        "En": "Globe Spinner",
-        "Es": "Gira el Globo",
-        "Fr": "Tourne le Globe",
-        "Ar": "أدر الكرة الأرضية"
-      },
-      "image": "bonus_12_globe.png",
-      "url": "https://example.com/games/globe-spinner",
-      "topic": "capitals"
-    }
-  ]
-}
+  {
+    "title": "Tile Master 2048",
+    "description": "Slide, merge, and reach 2048 in this addictive number puzzle game.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame2.jpg",
+    "url": "https://bekeiratsoftwares.com/Apps/EnTiles2048/"
+  },
+  {
+    "title": "Roll The Ball 2",
+    "description": "One of the best brain storming puzzle game. An addictive slide puzzle game which refresh your brain.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame3.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15490"
+  },
+  {
+    "title": "Woodoku Online",
+    "description": "Your goal is to put the blocks into the box and fill them and then eliminate them after filling them horizontally or vertically, testing your patience and carefulness.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame4.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14788"
+  },
+  {
+    "title": "Dirt Bike Stunts Puzzle",
+    "description": "In this game, you have a total of 6 jigsaw puzzles. You need to start from the first one and go to the next image.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame5.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15151"
+  },
+  {
+    "title": "Hummer Jeep Puzzle",
+    "description": "You have 6 images in three modes to play. Choose one of the modes for the game that you previously choose and start it to play.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame6.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM15090"
+  },
+  {
+    "title": "Block Legend Puzzle",
+    "description": "Just have a try, you will love it! make full lines vertically or horizontally to clear the blocks and to get a high score.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame7.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14759"
+  },
+  {
+    "title": "Word Search Master",
+    "description": "Word search is an amazing puzzle game which can help you to improve your grammar skills to another level.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame8.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM14072"
+  },
+  {
+    "title": "My Little Unicorn",
+    "description": "Unicorns coloring game is an app for everyone who loves to create, color, learn English and just have fun and enjoy the drawing.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame9.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13779"
+  },
+  {
+    "title": "Princess Royal Dream Wedding",
+    "description": "The beautiful Ice Princess has finally chosen her Prince Charming, and the princess is lucky to have you as her wedding stylist and planner! Now’s your chance to show that you’re the best wedding planner around",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame10.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13801"
+  },
+  {
+    "title": "Math Kids Game",
+    "description": "Your kids will love to play, and the more they do the better their math skills will become.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame11.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM13241"
+  },
+  {
+    "title": "Summer Dress Up",
+    "description": "Help the girl to get ready for their fun summer beach vacation ! Dress them up in fabulous beach attire & accessories.",
+    "image": "https://raw.githubusercontent.com/3worksmoulay-lab/TriviaData/main/landmarks/PromoGames/MyGame12.jpg",
+    "url": "https://bekeiratsoftwares.com/pages/game.html?id=GM12638"
+  }
+]
