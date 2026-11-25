@@ -760,17 +760,6 @@
     },
     {
         "Level":5,
-        "Image File":"70_Yosemite National Park.png",
-        "Option1":"Parque Nacional de Yosemite",
-        "Option2":"Joshua Tree",
-        "Option3":"Parque Sequoia",
-        "Option4":"Parque Zion",
-        "Question":"Monumento estadounidense",
-        "Answer":"Parque Nacional de Yosemite",
-        "Answer Indix":0
-    },
-    {
-        "Level":5,
         "Image File":"71_Mount Rushmore.png",
         "Option1":"Monumento al Caballo Loco",
         "Option2":"Monte Rushmore",
@@ -823,17 +812,6 @@
         "Question":"Monumento mexicano",
         "Answer":"Teotihuacan",
         "Answer Indix":1
-    },
-    {
-        "Level":5,
-        "Image File":"76_Christ the Redeemer.png",
-        "Option1":"Montaña Sugarloaf",
-        "Option2":"Cataratas Iguazú",
-        "Option3":"Cristo el Redentor",
-        "Option4":"Copacabana",
-        "Question":"Monumento brasileño",
-        "Answer":"Cristo el Redentor",
-        "Answer Indix":2
     },
     {
         "Level":5,
@@ -1057,17 +1035,6 @@
     },
     {
         "Level":7,
-        "Image File":"97_Ha Long Bay.png",
-        "Option1":"Lago Ba Be",
-        "Option2":"Bahía de Ha Long",
-        "Option3":"Valle de Sapa",
-        "Option4":"Tam Coc",
-        "Question":"Monumento vietnamita",
-        "Answer":"Bahía de Ha Long",
-        "Answer Indix":1
-    },
-    {
-        "Level":7,
         "Image File":"98_Cu Chi Tunnels.png",
         "Option1":"Museo de los Restos de Guerra",
         "Option2":"Túneles Cu Chi",
@@ -1108,17 +1075,6 @@
         "Option4":"Wat Traimit",
         "Question":"Monumento tailandés",
         "Answer":"Wat Phra Kaew",
-        "Answer Indix":1
-    },
-    {
-        "Level":7,
-        "Image File":"102_Phi Phi Islands.png",
-        "Option1":"Isla de James Bond",
-        "Option2":"Islas Phi Phi",
-        "Option3":"Islas Similan",
-        "Option4":"Bahía Maya",
-        "Question":"Monumento tailandés",
-        "Answer":"Islas Phi Phi",
         "Answer Indix":1
     },
     {
@@ -1174,17 +1130,6 @@
         "Option4":"Monte Agung",
         "Question":"Monumento indonesio",
         "Answer":"Tanah Lot",
-        "Answer Indix":1
-    },
-    {
-        "Level":7,
-        "Image File":"108_Uluwatu Temple.png",
-        "Option1":"Tanah Lot",
-        "Option2":"Templo Uluwatu",
-        "Option3":"Bosque de Monos",
-        "Option4":"Tirta Empul",
-        "Question":"Monumento indonesio",
-        "Answer":"Templo Uluwatu",
         "Answer Indix":1
     },
     {
@@ -1629,17 +1574,6 @@
     },
     {
         "Level":10,
-        "Image File":"149_Djemaa el-Fna.png",
-        "Option1":"Palacio de Bahía",
-        "Option2":"Djemaa el-Fna",
-        "Option3":"Jardín Majorelle",
-        "Option4":"Koutoubia",
-        "Question":"Monumento marroquí",
-        "Answer":"Djemaa el-Fna",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
         "Image File":"150_Hassan II Mosque.png",
         "Option1":"Plaza Mohammed V",
         "Option2":"Mezquita Hassan II",
@@ -1651,17 +1585,6 @@
     },
     {
         "Level":10,
-        "Image File":"151_Serengeti National Park.png",
-        "Option1":"Ngorongoro",
-        "Option2":"Parque Nacional del Serengeti",
-        "Option3":"Maasai Mara",
-        "Option4":"Amboseli",
-        "Question":"Monumento tanzano",
-        "Answer":"Parque Nacional del Serengeti",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
         "Image File":"152_Mount Kilimanjaro.png",
         "Option1":"Monte Meru",
         "Option2":"Monte Kilimanjaro",
@@ -1669,39 +1592,6 @@
         "Option4":"Ruwenzori",
         "Question":"Monumento tanzano",
         "Answer":"Monte Kilimanjaro",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
-        "Image File":"153_Ngorongoro Crater.png",
-        "Option1":"Lago Manyara",
-        "Option2":"Cráter de Ngorongoro",
-        "Option3":"Garganta de Olduvai",
-        "Option4":"Tarangire",
-        "Question":"Monumento tanzano",
-        "Answer":"Cráter de Ngorongoro",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
-        "Image File":"154_Maasai Mara.png",
-        "Option1":"Serengeti",
-        "Option2":"Maasai Mara",
-        "Option3":"Parque de Nairobi",
-        "Option4":"Tsavo",
-        "Question":"Monumento keniano",
-        "Answer":"Maasai Mara",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
-        "Image File":"155_Kruger National Park.png",
-        "Option1":"Pilanesberg",
-        "Option2":"Parque Nacional Kruger",
-        "Option3":"Elefante Addo",
-        "Option4":"Kgalagadi",
-        "Question":"Monumento sudafricano",
-        "Answer":"Parque Nacional Kruger",
         "Answer Indix":1
     },
     {

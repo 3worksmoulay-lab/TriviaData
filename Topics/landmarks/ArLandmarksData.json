@@ -760,17 +760,6 @@
     },
     {
         "Level":5,
-        "Image File":"70_Yosemite National Park.png",
-        "Option1":"منتزه يوسيميتي الوطني",
-        "Option2":"منتزه جوشوا تري",
-        "Option3":"منتزه سيكويا",
-        "Option4":"منتزه زيون الوطني",
-        "Question":"معلم أمريكي",
-        "Answer":"حديقة يوسيميتي الوطنية",
-        "Answer Indix":0
-    },
-    {
-        "Level":5,
         "Image File":"71_Mount Rushmore.png",
         "Option1":"نصب كريزي هورس التذكاري",
         "Option2":"جبل راشمور",
@@ -823,17 +812,6 @@
         "Question":"معلم مكسيكي",
         "Answer":"تيوتيهواكان",
         "Answer Indix":1
-    },
-    {
-        "Level":5,
-        "Image File":"76_Christ the Redeemer.png",
-        "Option1":"جبل رغيف السكر",
-        "Option2":"شلالات إجوازو",
-        "Option3":"تمثال المسيح الفادي",
-        "Option4":"كوباكابانا",
-        "Question":"معلم برازيلي",
-        "Answer":"تمثال المسيح الفادي",
-        "Answer Indix":2
     },
     {
         "Level":5,
@@ -1057,17 +1035,6 @@
     },
     {
         "Level":7,
-        "Image File":"97_Ha Long Bay.png",
-        "Option1":"بحيرة با بي",
-        "Option2":"خليج ها لونغ",
-        "Option3":"وادي سابا",
-        "Option4":"تام كوك",
-        "Question":"معلم فيتنامي",
-        "Answer":"خليج ها لونغ",
-        "Answer Indix":1
-    },
-    {
-        "Level":7,
         "Image File":"98_Cu Chi Tunnels.png",
         "Option1":"متحف مخلفات الحرب",
         "Option2":"أنفاق كوتشي",
@@ -1108,17 +1075,6 @@
         "Option4":"وات ترايميت",
         "Question":"معلم تايلاندي",
         "Answer":"وات فرا كايو",
-        "Answer Indix":1
-    },
-    {
-        "Level":7,
-        "Image File":"102_Phi Phi Islands.png",
-        "Option1":"جزيرة جيمس بوند",
-        "Option2":"جزر في في",
-        "Option3":"جزر سيميلان",
-        "Option4":"خليج مايا",
-        "Question":"معلم تايلاندي",
-        "Answer":"جزر فاي فاي",
         "Answer Indix":1
     },
     {
@@ -1174,17 +1130,6 @@
         "Option4":"موونت اغونغ",
         "Question":"معلم إندونيسي",
         "Answer":"تاناه لوت",
-        "Answer Indix":1
-    },
-    {
-        "Level":7,
-        "Image File":"108_Uluwatu Temple.png",
-        "Option1":"تانا لوت",
-        "Option2":"معبد أولوواتو",
-        "Option3":"غابة القرود",
-        "Option4":"تيرتا إمبول",
-        "Question":"معلم إندونيسي",
-        "Answer":"معبد أولواتو",
         "Answer Indix":1
     },
     {
@@ -1629,17 +1574,6 @@
     },
     {
         "Level":10,
-        "Image File":"149_Djemaa el-Fna.png",
-        "Option1":"قصر الباهية",
-        "Option2":"ساحة جامع الفنا",
-        "Option3":"حديقة ماجوريل",
-        "Option4":"مسجد الكتبية",
-        "Question":"معلم مغربي",
-        "Answer":"ساحة جامع الفنا",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
         "Image File":"150_Hassan II Mosque.png",
         "Option1":"ساحة محمد الخامس",
         "Option2":"مسجد الحسن الثاني",
@@ -1651,17 +1585,6 @@
     },
     {
         "Level":10,
-        "Image File":"151_Serengeti National Park.png",
-        "Option1":"نغورونغورو",
-        "Option2":"منتزه سيرينغيتي الوطني",
-        "Option3":"ماساي مارا",
-        "Option4":"أمبوسيلي",
-        "Question":"معلم تنزاني",
-        "Answer":"حديقة سيرينغيتي الوطنية",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
         "Image File":"152_Mount Kilimanjaro.png",
         "Option1":"جبل ميرو",
         "Option2":"جبل كليمنجارو",
@@ -1669,39 +1592,6 @@
         "Option4":"جبال روينزوري",
         "Question":"معلم تنزاني",
         "Answer":"جبل كليمنجارو",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
-        "Image File":"153_Ngorongoro Crater.png",
-        "Option1":"بحيرة مانيارا",
-        "Option2":"فوهة نغورونغورو",
-        "Option3":"مضيق أولدوفاي",
-        "Option4":"تارانغيري",
-        "Question":"معلم تنزاني",
-        "Answer":"فوهة نغورونغورو",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
-        "Image File":"154_Maasai Mara.png",
-        "Option1":"سيرينغيتي",
-        "Option2":"ماساي مارا",
-        "Option3":"منتزه نيروبي الوطني",
-        "Option4":"تسافو",
-        "Question":"معلم كيني",
-        "Answer":"ماساي مارا",
-        "Answer Indix":1
-    },
-    {
-        "Level":10,
-        "Image File":"155_Kruger National Park.png",
-        "Option1":"بيلانيسبيرغ",
-        "Option2":"منتزه كروغر الوطني",
-        "Option3":"منتزه أدو للفيلة",
-        "Option4":"كغالاغادي",
-        "Question":"معلم جنوب أفريقي",
-        "Answer":"حديقة كروغر الوطنية",
         "Answer Indix":1
     },
     {
