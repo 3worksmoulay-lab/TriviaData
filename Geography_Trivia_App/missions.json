@@ -15,7 +15,7 @@
         "Fr": "Lancez l'écran de jeu et répondez aux questions.",
         "Ar": "افتح شاشة اللعب وأجب عن الأسئلة."
       },
-      "image": "mission_play.png",
+      "image": "mission_1.png",
       "targetScreen": "screen-play"
     },
     {
@@ -32,7 +32,7 @@
         "Fr": "Ouvrez un mini-jeu dans la grille bonus.",
         "Ar": "افتح أي لعبة مصغرة من شبكة الألعاب الإضافية."
       },
-      "image": "mission_bonus.png",
+      "image": "mission_2.png",
       "targetScreen": "screen-bonus"
     },
     {
@@ -49,7 +49,7 @@
         "Fr": "Consultez votre rang dans le classement.",
         "Ar": "تحقق من ترتيبك في لوحة الصدارة."
       },
-      "image": "mission_leaderboard.png",
+      "image": "mission_3.png",
       "targetScreen": "screen-leaderboard"
     },
     {
@@ -66,7 +66,7 @@
         "Fr": "Changez la langue via le bouton drapeau en haut.",
         "Ar": "غيّر لغة التطبيق عبر زر العلم العلوي."
       },
-      "image": "mission_lang.png",
+      "image": "mission_4.png",
       "targetScreen": "screen-home"
     },
     {
@@ -83,7 +83,7 @@
         "Fr": "Terminez toutes les questions d'un niveau.",
         "Ar": "أكمل جميع أسئلة المستوى عبر المواضيع المختارة."
       },
-      "image": "mission_level.png",
+      "image": "mission_5.png",
       "targetScreen": "screen-play"
     },
     {
@@ -100,7 +100,7 @@
         "Fr": "Atteignez 200 points ou plus.",
         "Ar": "اصل إلى 200 نقطة أو أكثر."
       },
-      "image": "mission_score.png",
+      "image": "mission_6.png",
       "targetScreen": "screen-play"
     }
   ]
