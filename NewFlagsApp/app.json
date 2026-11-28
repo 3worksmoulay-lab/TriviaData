@@ -1,0 +1,25 @@
+{
+  "appName": "Flags Trivia",
+  "version": "1.0",
+  "defaultLanguage": "En",
+  "supportedLanguages": ["En", "Es", "Fr", "Ar"],
+  "directories": {
+    "app": "NewFlagsApp",
+    "appAssets": "NewFlagsApp/assets",
+    "commons": "Commons",
+    "audio": "Commons/Audio",
+    "backgrounds": "Commons/Backgrounds",
+    "langFlags": "Commons/LangFlags",
+    "achievements": "Commons/Achievements",
+    "bonusGamesIcons": "Commons/BonusGamesIcons",
+    "missionsIcons": "Commons/MissionsIcons",
+    "rewards": "Commons/Rewards",
+    "topics": "Topics"
+  },
+  "assets": {
+    "appIcon": "App_icon.png",
+    "favIcon": "favicon.png",
+    "ambientMusic": "ambient1.mp3"
+  },
+  "selectedTopics": ["flags"]
+}
